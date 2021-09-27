@@ -52,10 +52,12 @@ python code
 > print s
 ***
 javascript code
-```javascript=+
+````md
+```js
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
+````
 ***
 colons can be used to align columns.
 | Tables        | Are           | Cool  |
