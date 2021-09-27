@@ -48,16 +48,17 @@ Strikethrough uses two tildes ~~Scrach this~~
 - [ ] 2nd things
 ***
 python code
-> s = "Python syntax highlighting"
+
+> s = "Python syntax highlighting"  
 > print s
 ***
 javascript code
-````md
+
 ```
 > var s = "JavaScript syntax highlighting";
 > alert(s);
 ```
-````
+
 ***
 colons can be used to align columns.
 | Tables        | Are           | Cool  |
