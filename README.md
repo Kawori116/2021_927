@@ -11,6 +11,13 @@
 
 ![NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png)
 
-This is a text.
-...
+This is a `text`.
+
+```
 This is a long quote.
+```
+- [x] this is checked
+- [ ] undo
+- [ ] 2nd job
+- [x] 3rd job
+- [ ] 4th work
