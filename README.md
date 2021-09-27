@@ -32,6 +32,6 @@ Strong emphasis, aka bold, with **asterisks** or __underscores__.
 Combined emphasis with **asterisks and _underscores_**.
 Strikethrough uses two tildes ~~Scrach this~~
 ***
--1. First ordered list item
--2. Another item
-   *Unordered item
+1. First ordered list item
+2. Another item
+   ..*Unordered item
