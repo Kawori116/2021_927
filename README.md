@@ -71,7 +71,7 @@ colons can be used to align columns.
 | zebra stripes | are neat      |    $1 |
 
 There must be at least 3 ndashes each header cell. 
-The outer pipes are optional, and you don't need to make the rawa Markdown line up prettily. You can also use inline Markdown.
+The outer pipes (|) are optional, and you don't need to make the rawa Markdown line up prettily. You can also use inline Markdown.
 Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
