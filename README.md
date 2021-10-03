@@ -38,34 +38,37 @@ Strikethrough uses two tildes ~~Scrach this~~
 3. Actual numbers don't matter, just that it's a number 
    - --1. Ordered sub-list
    - ...2. 2nd
-4. And another item.
-   ...* note 1
-   ...* note 2
-   *** note 3
+4. And another item.  
+   ...* note 1  
+   ...* note 2  
+   *** note 3  
 
 ***
 - [ ] todo list
 - [ ] 2nd things
 ***
-python code
 
-> s = "Python syntax highlighting"  
-> print s
-***
-javascript code
+# python code
 
+```python
+s="Python syntax highlighting"
+print s
 ```
-> var s = "JavaScript syntax highlighting";
-> alert(s);
+
+# javascript code 
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
 ```
 
 ***
 colons can be used to align columns.
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
-| col 3 is       | aligned      | $1600 |
-| col 2 is        | centered      |   $12 |
-| zebra stripes      | are meat      |    $1 |
+| col 3 is      | right aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 There must be at least 3 ndashes each header cell. 
 The outer pipes are optional, and you don't need to make the rawa Markdown line up prettily. You can also use inline Markdown.
